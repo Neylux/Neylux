@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neylux!</h1>
 <h3 align="center">Just another developer :D</h3>
 
-- 📫 How to reach me **neluxpvp@gmail.com**
+- 📫 How to reach me **Discord: Neylux#9947**
 
 - ⚡ Fun fact **Definitely not addicted to coffee!**
 
